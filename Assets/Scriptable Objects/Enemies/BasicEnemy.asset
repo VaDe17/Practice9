@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c959dbafd4616d459ed39faa18f7ee7, type: 3}
+  m_Name: BasicEnemy
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyStats
+  MaxHealth: 10
+  MoveSpeed: 7
+  AttackDamage: 30
+  AttackDetection: 3
+  AttackRange: 1.8
+  AttackSpeed: 1
+  AttackWindup: 0.35

@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 518298d266957de49b6df4ae3e5f1dbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6515602111186535438
+    second: Ghoul_0
+  - first:
+      213: 4266953792406203321
+    second: Ghoul_1
+  - first:
+      213: 6903697983608035850
+    second: Ghoul_2
+  - first:
+      213: -8110614230729333908
+    second: Ghoul_3
+  - first:
+      213: 8493898241702802346
+    second: Ghoul_4
+  - first:
+      213: -6750018006444099877
+    second: Ghoul_5
+  - first:
+      213: -8860354357479979970
+    second: Ghoul_6
+  - first:
+      213: 7155230181011927570
+    second: Ghoul_7
+  - first:
+      213: 5178567391560342109
+    second: Ghoul_8
+  - first:
+      213: -1815560173917864459
+    second: Ghoul_9
+  - first:
+      213: 2947460769895952144
+    second: Ghoul_10
+  - first:
+      213: -2515700378640994173
+    second: Ghoul_11
+  - first:
+      213: 4044560451082959487
+    second: Ghoul_12
+  - first:
+      213: -4449594488785854517
+    second: Ghoul_13
+  - first:
+      213: -4339532303926059761
+    second: Ghoul_14
+  - first:
+      213: -6575761104213195113
+    second: Ghoul_15
+  - first:
+      213: 6407498301968996077
+    second: Ghoul_16
+  - first:
+      213: 1069449501618003414
+    second: Ghoul_17
+  - first:
+      213: 3703253529537623470
+    second: Ghoul_18
+  - first:
+      213: -5981007829405773215
+    second: Ghoul_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghoul_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e040f0759911c6a50800000000000000
+      internalID: 6515602111186535438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba06dedd3473b30800000000000000
+      internalID: 4266953792406203321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a998d1dbcdecf50800000000000000
+      internalID: 6903697983608035850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63662b345f417f80800000000000000
+      internalID: -8110614230729333908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3b20fb27360e570800000000000000
+      internalID: 8493898241702802346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b862e26e1352a0800000000000000
+      internalID: -6750018006444099877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e344252f7a2b90580800000000000000
+      internalID: -8860354357479979970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212be5980fb7c4360800000000000000
+      internalID: 7155230181011927570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a106bfa97fdd740800000000000000
+      internalID: 5178567391560342109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd774d14a5ddc6e0800000000000000
+      internalID: -1815560173917864459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2c0334fb77e820800000000000000
+      internalID: 2947460769895952144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b9c995df661dd0800000000000000
+      internalID: -2515700378640994173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab46f1d4a212830800000000000000
+      internalID: 4044560451082959487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf126d236ddf32c0800000000000000
+      internalID: -4449594488785854517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d97258c52e6c3c0800000000000000
+      internalID: -4339532303926059761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796ca879d143eb4a0800000000000000
+      internalID: -6575761104213195113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6d7cbd1c10ce850800000000000000
+      internalID: 6407498301968996077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddd821d7a277de00800000000000000
+      internalID: 1069449501618003414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_18
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53d45e679946330800000000000000
+      internalID: 3703253529537623470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghoul_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 16
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162507161113ffca0800000000000000
+      internalID: -5981007829405773215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e35cd0fa3f609f408506cbb8c20143d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":11.0,"y":8.0},"gridSpritePadding":{"x":24.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ghoul_0: 6515602111186535438
+      Ghoul_1: 4266953792406203321
+      Ghoul_10: 2947460769895952144
+      Ghoul_11: -2515700378640994173
+      Ghoul_12: 4044560451082959487
+      Ghoul_13: -4449594488785854517
+      Ghoul_14: -4339532303926059761
+      Ghoul_15: -6575761104213195113
+      Ghoul_16: 6407498301968996077
+      Ghoul_17: 1069449501618003414
+      Ghoul_18: 3703253529537623470
+      Ghoul_19: -5981007829405773215
+      Ghoul_2: 6903697983608035850
+      Ghoul_3: -8110614230729333908
+      Ghoul_4: 8493898241702802346
+      Ghoul_5: -6750018006444099877
+      Ghoul_6: -8860354357479979970
+      Ghoul_7: 7155230181011927570
+      Ghoul_8: 5178567391560342109
+      Ghoul_9: -1815560173917864459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
